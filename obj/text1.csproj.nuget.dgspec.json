@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\工作\\二维码标注工具\\text1\\BarcodeLabelTool\\text1.csproj": {}
+    "D:\\工作\\二维码标注工具\\BarcodeLabelTool\\text1.csproj": {}
   },
   "projects": {
-    "D:\\工作\\二维码标注工具\\text1\\BarcodeLabelTool\\text1.csproj": {
+    "D:\\工作\\二维码标注工具\\BarcodeLabelTool\\text1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\工作\\二维码标注工具\\text1\\BarcodeLabelTool\\text1.csproj",
+        "projectUniqueName": "D:\\工作\\二维码标注工具\\BarcodeLabelTool\\text1.csproj",
         "projectName": "text1",
-        "projectPath": "D:\\工作\\二维码标注工具\\text1\\BarcodeLabelTool\\text1.csproj",
+        "projectPath": "D:\\工作\\二维码标注工具\\BarcodeLabelTool\\text1.csproj",
         "packagesPath": "C:\\Users\\Smore\\.nuget\\packages\\",
-        "outputPath": "D:\\工作\\二维码标注工具\\text1\\BarcodeLabelTool\\obj\\",
+        "outputPath": "D:\\工作\\二维码标注工具\\BarcodeLabelTool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

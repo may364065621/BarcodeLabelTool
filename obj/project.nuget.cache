@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vU61So6veblSE4zcqcWrXZhLDpvt5wZ+Cr2+9GEdLEI09G0uNS+Ao7HZYANHGKdA5qg0kzQJPmdkp/bvct1i3A==",
+  "dgSpecHash": "DPBzphfu5jPwth1ZhgONAfhLpUvW2lJcG3GFMTKL+s7KoVriPX4bfEsBc8vyzFumELfAoNLuf8DzSxCubFQQoQ==",
   "success": true,
-  "projectFilePath": "D:\\工作\\二维码标注工具\\text1\\BarcodeLabelTool\\text1.csproj",
+  "projectFilePath": "D:\\工作\\二维码标注工具\\BarcodeLabelTool\\text1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smore\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

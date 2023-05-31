@@ -32,7 +32,6 @@ namespace text1
             labelpoints.Add(label_rightdown);
             labelpoints.Add(label_rightup);
 
-            int i = 0;
 
             this.Text = "二维码标注工具  " + version + "  " + producer;
         }

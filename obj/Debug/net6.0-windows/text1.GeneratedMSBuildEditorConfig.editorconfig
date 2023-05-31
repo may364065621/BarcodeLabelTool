@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = text1
-build_property.ProjectDir = D:\工作\二维码标注工具\text1\BarcodeLabelTool\
+build_property.ProjectDir = D:\工作\二维码标注工具\BarcodeLabelTool\
